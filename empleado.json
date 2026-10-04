@@ -1,0 +1,8 @@
+[{"empno":1232, "nombre":"L\u00f3pez", "jefe":1235, "fecha_contratacion":"2001-01-01", "salario":12500.0, "deptno":30},
+ {"empno":1233, "nombre":"Morales", "jefe":1238, "fecha_contratacion":"2014-05-20", "salario":29750.0, "deptno":20},
+ {"empno":1224, "nombre":"Santana", "jefe":1235, "fecha_contratacion":"2001-09-29", "salario":28500.0, "deptno":40},
+ {"empno":1225, "nombre":"Ramos", "jefe":1238, "fecha_contratacion":"2009-05-16", "salario":24500.0, "deptno":40},
+ {"empno":1227, "nombre":"Segura", "jefe":1233, "fecha_contratacion":"2005-05-05", "salario":29750.0, "deptno":20},
+ {"empno":1228, "nombre":"Hernández", "jefe":0, "fecha_contratacion":"2000-01-01", "salario":50000.0, "deptno":10},
+ {"empno":1229, "nombre":"Fuentes", "jefe":1235, "fecha_contratacion":"2006-02-24", "salario":15000.0, "deptno":40},
+ {"empno":1248, "nombre":"Portales", "jefe":1236, "fecha_contratacion":"2016-02-14", "salario":13000.0, "deptno":10}]
